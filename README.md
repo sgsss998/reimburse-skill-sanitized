@@ -155,3 +155,8 @@ A: 我会按“逐笔费用明细 + 商业目的 + 备注 + U8表单字段 + 附
 - 自动OCR识别，无需手动录入
 - 文件结构固化，减少人为整理错误
 - 支持微信/Telegram/Discord/Slack等多平台
+
+---
+
+微信号：`soplaoming`  
+![微信二维码](./wechat-qrcode.jpg)
