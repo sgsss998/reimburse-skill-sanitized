@@ -159,4 +159,6 @@ A: 我会按“逐笔费用明细 + 商业目的 + 备注 + U8表单字段 + 附
 ---
 
 微信号：`soplaoming`  
-![微信二维码](./wechat-qrcode.jpg)
+| 微信二维码 | 收款码 |
+|---|---|
+| ![微信二维码](./wechat-qrcode.jpg) | ![收款码](./wechat-pay-qrcode.jpg) |
