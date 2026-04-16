@@ -3,7 +3,7 @@
 > Skill 文件名：`报销.skill`（复制到 Agent / OpenClaw 的 skills 目录即可）  
 > 将报销凭证拍照/截图发给我，我帮你自动归类整理，生成符合财务规范的报销材料包。
 
-![报销.skill 封面](./cover-baoxiao-skill.png)
+![报销.skill 封面](./cover-baoxiao-skill-v2.png)
 
 ---
 
